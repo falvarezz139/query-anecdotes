@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useMutation, useQueryClient } from "react-query";
 import { voteAnecdote } from "../requests";
 import { useContext } from "react";
